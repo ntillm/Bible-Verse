@@ -28,3 +28,6 @@ Thumbs.db
 # Misc
 *.sqlite3
 
+#important files
+recipients.json
+
